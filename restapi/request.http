@@ -1,0 +1,5 @@
+POST http://localhost:5155/post/game/1
+Accept: application/json  
+Content-Type: application/json  
+  
+"o"  
